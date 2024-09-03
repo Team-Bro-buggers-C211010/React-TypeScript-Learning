@@ -1,0 +1,5 @@
+GET https://fakestoreapi.com/products
+
+###
+
+GET https://fakestoreapi.com/products?limit=5
